@@ -7,4 +7,4 @@ IMAGE_NAME="rust-warm"
 echo "🔨 Building docker image: $IMAGE_NAME ..."
 docker build -t $IMAGE_NAME .
 
-echo "✅ Build finished
+echo "✅ Build finished"
